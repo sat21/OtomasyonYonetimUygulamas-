@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11AD8EC-8E28-484E-A0BD-17783085EC3B}|WindowsFormsApp1\\212701064_SeyitAhmet_Tas_Etkinlik2.csproj|d:\\projects\\c# projects\\otomasyony\u00F6netimuygulamas\u0131\\windowsformsapp1\\robotekran\u0131.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AD8EC-8E28-484E-A0BD-17783085EC3B}|WindowsFormsApp1\\212701064_SeyitAhmet_Tas_Etkinlik2.csproj|solutionrelative:windowsformsapp1\\robotekran\u0131.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11AD8EC-8E28-484E-A0BD-17783085EC3B}|WindowsFormsApp1\\212701064_SeyitAhmet_Tas_Etkinlik2.csproj|D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\windowsformsapp1\\robotekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C11AD8EC-8E28-484E-A0BD-17783085EC3B}|WindowsFormsApp1\\212701064_SeyitAhmet_Tas_Etkinlik2.csproj|solutionrelative:windowsformsapp1\\robotekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11AD8EC-8E28-484E-A0BD-17783085EC3B}|WindowsFormsApp1\\212701064_SeyitAhmet_Tas_Etkinlik2.csproj|D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\windowsformsapp1\\robotekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11AD8EC-8E28-484E-A0BD-17783085EC3B}|WindowsFormsApp1\\212701064_SeyitAhmet_Tas_Etkinlik2.csproj|solutionrelative:windowsformsapp1\\robotekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "robotEkran\u0131.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\WindowsFormsApp1\\robotEkran\u0131.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\robotEkran\u0131.Designer.cs",
+              "ToolTip": "D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\WindowsFormsApp1\\robotEkran\u0131.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\robotEkran\u0131.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T09:26:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "robotEkran\u0131.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\WindowsFormsApp1\\robotEkran\u0131.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\robotEkran\u0131.cs",
+              "ToolTip": "D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\WindowsFormsApp1\\robotEkran\u0131.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\robotEkran\u0131.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAqwLgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-09T03:10:08.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "robotEkran\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\PROJECTS\\c# projects\\OtomasyonY\u00F6netimUygulamas\u0131\\WindowsFormsApp1\\robotEkran\u0131.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\robotEkran\u0131.cs",
+              "ToolTip": "D:\\PROJECTS\\c# projects\\212701064_SeyitAhmet_Tas_Etkinlik2\\WindowsFormsApp1\\robotEkran\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\212701064_SeyitAhmet_Tas_Etkinlik2\\WindowsFormsApp1\\robotEkran\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-09T03:10:03.636Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
